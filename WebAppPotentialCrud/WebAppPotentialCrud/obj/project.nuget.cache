@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+Ext1ZjZP0og1t8bGt6jI5flY0/XUo8iyGW/Xrz3CYpvzIoOywefg9a5xIVD/nF4DbiTQYNeGbYUcSc3oLCjQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\Gazin\\WebAppPotentialCrud\\WebAppPotentialCrud\\WebAppPotentialCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
